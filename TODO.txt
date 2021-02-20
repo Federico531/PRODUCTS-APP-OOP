@@ -4,3 +4,5 @@ MOSTRAR EN UNA ALERTA O POR CONSOLA EL NOMBRE DEL PRODUCTO ELIMINADO
 -COMO EXTRAER LA PRIMER PROPIEDAD DE ESE CHILD UNICAMENTE? 
 -PENSE HACER PUSH AL OBJETO EN UN ARRAY Y TOMAR ESA PROPIEDAD ITERANDO (USANDO UN ID QUE COMPARTA CON LA ETIQUETA <a>)
 -CUANDO PRESIONO DELETE QUE IDENTIFIQUE EL ID
+
+https://www.javascripttutorial.net/javascript-dom/javascript-get-child-element/#:~:text=Get%20the%20first%20child%20element,-To%20get%20the&text=First%2C%20select%20the%20%23menu%20element,by%20using%20the%20firstElementChild%20property.
